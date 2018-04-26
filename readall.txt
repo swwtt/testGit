@@ -8,9 +8,16 @@
 99999999999
 010100101010
 aaaaaaaaaaaa
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 tttttttttttt
 =======
 99999999999
 ooooooooooo
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+99999999999
+>>>>>>> fenzhi1
+=======
 >>>>>>> Stashed changes
